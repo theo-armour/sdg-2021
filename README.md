@@ -1,4 +1,6 @@
-# SDG
+# SDG ~ Sustainable Development Goals
+
+## The Goals
 
 1. No poverty
 2. Zero hunger
@@ -17,4 +19,23 @@
 15. Life on land
 16. Peace, justice and strong institutions
 17. Partnerships for the goals
+
+## Links of Interest
+
+### Trends
+
+* https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F0r8knlf
+
+### California
+
+* https://sdg.lamayor.org/about-la-sdgs
+* https://ajed.assembly.ca.gov/content/sustainable-development-goals
+* http://bay.stanford.edu/sdg
+
+## Green Party
+
+* https://www.gp.org/platform
+	* Written befors SDGs
+
+***
 
