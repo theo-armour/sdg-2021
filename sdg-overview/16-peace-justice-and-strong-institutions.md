@@ -136,3 +136,7 @@ Promote peaceful and inclusive societies for sustainable development, provide ac
 ### Indicators
 
 16.b.1 Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law C200204
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

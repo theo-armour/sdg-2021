@@ -47,3 +47,4 @@ Ensure access to affordable, reliable, sustainable and modern energy for all
 7.b.1 Installed renewable energy-generating capacity in developing countries (in watts per capita) C200208
 
 ***
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

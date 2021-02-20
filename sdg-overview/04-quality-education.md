@@ -77,3 +77,6 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 
 ### Indicators
 4.c.1 Proportion of teachers with the minimum required qualifications, by education level[n 6] C040c01
+
+***
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

@@ -91,3 +91,4 @@ Reduce inequality within and among countries
 
 10.c.1 Remittance costs as a proportion of the amount remitted C100c01
 
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

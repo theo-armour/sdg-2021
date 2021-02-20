@@ -68,3 +68,4 @@ End hunger, achieve food security and improved nutrition and promote sustainable
 2.c.1 Indicator of food price anomalies C020c01
 
 ***
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

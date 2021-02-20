@@ -112,3 +112,4 @@ Ensure healthy lives and promote well-being for all at all ages
 3.d.2 Percentage of bloodstream infections due to selected antimicrobial-resistant organisms[n 4] C030d02
 
 ***
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

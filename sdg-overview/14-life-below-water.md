@@ -47,3 +47,6 @@ Conserve and sustainably use the oceans, seas and marine resources for sustainab
 ### Indicators
 
 13.b.1 Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications C130b02
+
+***
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

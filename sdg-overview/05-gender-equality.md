@@ -81,3 +81,7 @@ Achieve gender equality and empower all women and girls
 ### Indicators
 
 5.c.1 Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment C050c01
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

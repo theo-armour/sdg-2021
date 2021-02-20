@@ -71,3 +71,7 @@ Ensure availability and sustainable management of water and sanitation for all
 ## Indicators
 
 6.b.1 Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management C060b01
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
