@@ -1,6 +1,6 @@
 # 4. Quality education
 
-<img src=../images/sdg-icons/E_SDG_Icons-04.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-04.jpg width=100 >
 
 Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 

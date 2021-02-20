@@ -1,6 +1,6 @@
 # 2. Zero hunger
 
-<img src=../images/sdg-icons/E_SDG_Icons-02.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-02.jpg width=100 >
 
 End hunger, achieve food security and improved nutrition and promote sustainable agriculture
 

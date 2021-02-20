@@ -1,6 +1,6 @@
 # 3. Good health and well being
 
-<img src=../images/sdg-icons/E_SDG_Icons-03.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-03.jpg width=100 >
 
 Ensure healthy lives and promote well-being for all at all ages
 

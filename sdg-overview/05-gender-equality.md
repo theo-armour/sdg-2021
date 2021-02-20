@@ -1,6 +1,6 @@
 # 5. Gender equality
 
-<img src=../images/sdg-icons/E_SDG_Icons-05.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-05.jpg width=100 >
 
 Achieve gender equality and empower all women and girls
 

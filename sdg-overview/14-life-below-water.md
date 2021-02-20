@@ -1,6 +1,6 @@
 # 14. Life below water
 
-<img src=../images/sdg-icons/E_SDG_Icons-14.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-14.jpg width=100 >
 
 Conserve and sustainably use the oceans, seas and marine resources for sustainable development
 

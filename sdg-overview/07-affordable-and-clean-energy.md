@@ -1,6 +1,6 @@
 # 7. Affordable and clean energy
 
-<img src=../images/sdg-icons/E_SDG_Icons-07.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-07.jpg width=100 >
 
 Ensure access to affordable, reliable, sustainable and modern energy for all
 

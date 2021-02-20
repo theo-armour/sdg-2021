@@ -1,6 +1,6 @@
 # 16. Peace, justice and strong institutions
 
-<img src=../images/sdg-icons/E_SDG_Icons-16.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-16.jpg width=100 >
 
 Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
 

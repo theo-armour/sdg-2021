@@ -1,6 +1,6 @@
 # 1. No poverty
 
-<img src=../images/sdg-icons/E_SDG_Icons-01.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-01.jpg width=100 >
 
 End poverty in all its forms everywhere
 

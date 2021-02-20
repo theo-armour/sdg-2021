@@ -1,6 +1,6 @@
 # 13. Climate action
 
-<img src=../images/sdg-icons/E_SDG_Icons-13.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-13.jpg width=100 >
 
 Take urgent action to combat climate change and its impacts [n 10]">edit]
 

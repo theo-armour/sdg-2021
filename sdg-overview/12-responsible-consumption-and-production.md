@@ -1,6 +1,6 @@
 # 12. Responsible consumption and production
 
-<img src=../images/sdg-icons/E_SDG_Icons-12.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-12.jpg width=100 >
 
 Ensure sustainable consumption and production patterns
 

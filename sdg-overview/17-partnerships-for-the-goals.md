@@ -1,6 +1,6 @@
 # 17. Partnerships for the goals
 
-<img src=../images/sdg-icons/E_SDG_Icons-17.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-17.jpg width=100 >
 
 Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
 

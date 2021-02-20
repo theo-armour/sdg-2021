@@ -1,6 +1,6 @@
 # 11. Sustainable cities and communities
 
-<img src=../images/sdg-icons/E_SDG_Icons-11.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-11.jpg width=100 >
 
 Make cities and human settlements inclusive, safe, resilient and sustainable
 

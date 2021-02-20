@@ -1,6 +1,6 @@
 # 10. Reduced inequalities
 
-<img src=../images/sdg-icons/E_SDG_Icons-10.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-10.jpg width=100 >
 
 Reduce inequality within and among countries
 

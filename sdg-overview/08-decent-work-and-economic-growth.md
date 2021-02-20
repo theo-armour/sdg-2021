@@ -1,6 +1,6 @@
 # 8. Decent work and economic growth
 
-<img src=../images/sdg-icons/E_SDG_Icons-08.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-08.jpg width=100 >
 
 Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
 

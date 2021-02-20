@@ -1,6 +1,6 @@
 # 15. Life on land
 
-<img src=../images/sdg-icons/E_SDG_Icons-15.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-15.jpg width=100 >
 
 Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
 

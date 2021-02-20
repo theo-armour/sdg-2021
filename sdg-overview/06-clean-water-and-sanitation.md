@@ -1,6 +1,6 @@
 # 6. Clean water and sanitation
 
-<img src=../images/sdg-icons/E_SDG_Icons-06.jpg width=100 >
+<img src=https://theo-armour.github.io/sdg-2021/images/sdg-icons/E_SDG_Icons-06.jpg width=100 >
 
 Ensure availability and sustainable management of water and sanitation for all
 
