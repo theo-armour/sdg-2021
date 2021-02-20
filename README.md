@@ -1,4 +1,18 @@
-# SDG ~ Sustainable Development Goals
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://theo-armour.github.io/sdg-2021/xxxxx/readme.html  "View file as a web page." ) </span>
+
+<div><input type=button onclick=window.top.location.href="https://github.com/theo-armour/sdg-2021/tree/master/xxxxx/";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
+
+
+# [Sustainable Development Goals (SDG) Read Me]( https://theo-armour.github.io/sdg-2021/xxxxx/readme.html )
+
+<!--@@@
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/sdg-2021/ xxxxx/ height=100% width=100% ></iframe></div>
+_Sustainable Development Goals (SDG) in a resizable window. One finger to rotate. Two to zoom._
+
+### Full Screen: [Sustainable Development Goals (SDG)]( https://theo-armour.github.io/sdg-2021/xxxxx/ )
+@@@-->
+
 
 ## The Goals
 
@@ -34,8 +48,25 @@
 
 ## Green Party
 
-* https://www.gp.org/platform
-	* Written befors SDGs
+* Green Party USA: https://www.gp.org/platform
+	* Written before SDGs??
+
+
+## To Do / Wish List
+
+
+## Issues
+
+
+## Change Log
+
+### 2021-02-20
+
+* First commit Readme
+
 
 ***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+
 
