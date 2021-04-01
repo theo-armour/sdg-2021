@@ -55,6 +55,12 @@ _Sustainable Development Goals (SDG) in a resizable window. One finger to rotate
 * Green Party USA: https://www.gp.org/platform
 	* Written before SDGs??
 
+## Union des Associations Internationales
+
+* https://uia.org/
+* https://uia.org/s/sdg/en/ ~ Wow! looks like a great resource
+* http://encyclopedia.uia.org/en ~ The Encyclopedia of World Problems and Human Potential
+
 
 ## To Do / Wish List
 
