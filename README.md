@@ -17,25 +17,25 @@ _Sustainable Development Goals (SDG) in a resizable window. One finger to rotate
 
 ## The Goals
 
-1. No poverty
-2. Zero hunger
-3. Good health and well being
-4. Quality education
-5. Gender equality
-6. Clean water and sanitation
-7. Affordable and clean energy
-8. Decent work and economic growth
-9. Industry, innovation and infrastructure
-10. Reduced inequalities
-11. Sustainable cities and communities
-12. Responsible consumption and production
-13. Climate action
-14. Life below water
-15. Life on land
-16. Peace, justice and strong institutions
-17. Partnerships for the goals
+1. [No poverty]( https://theo-armour.github.io/sdg-2021/#sdg-overview/01-no-poverty.md )
+2. [Zero hunger]( https://theo-armour.github.io/sdg-2021/#sdg-overview/02-zero-hunger.md)
+3. [Good health and well being]( https://theo-armour.github.io/sdg-2021/#sdg-overview/03-good-health-and-well-being.md )
+4. [Quality education]( https://theo-armour.github.io/sdg-2021/#sdg-overview/04-quality-education.md )
+5. [Gender equality]( https://theo-armour.github.io/sdg-2021/#sdg-overview/05-gender-equality.md )
+6. [Clean water and sanitation]( https://theo-armour.github.io/sdg-2021/#sdg-overview/06-clean-water-and-sanitation.md )
+7. [Affordable and clean energy]( https://theo-armour.github.io/sdg-2021/#sdg-overview/07-affordable-and-clean-energy.md )
+8. [Decent work and economic growth]( https://theo-armour.github.io/sdg-2021/#sdg-overview/08-decent-work-and-economic-growth.md )
+9. [Industry, innovation and infrastructure]( https://theo-armour.github.io/sdg-2021/#sdg-overview/08-decent-work-and-economic-growth.md)]
+10. [Reduced inequalities]( https://theo-armour.github.io/sdg-2021/#sdg-overview/10-reduced-inequalities.md )
+11. [Sustainable cities and communities]( https://theo-armour.github.io/sdg-2021/#sdg-overview/11-sustainable-cities-and-communities.md )
+12. [Responsible consumption and production]( https://theo-armour.github.io/sdg-2021/#sdg-overview/12-responsible-consumption-and-production.md )
+13. [Climate action]( https://theo-armour.github.io/sdg-2021/#sdg-overview/13-climate-action.md )
+14. [Life below water]( https://theo-armour.github.io/sdg-2021/#sdg-overview/14-life-below-water.md )
+15. [Life on land]( https://theo-armour.github.io/sdg-2021/#sdg-overview/15-life-on-land.md )
+16. [Peace, justice and strong institutions]( https://theo-armour.github.io/sdg-2021/#sdg-overview/16-peace-justice-and-strong-institutions.md )
+17. [Partnerships for the goals]( https://theo-armour.github.io/sdg-2021/#sdg-overview/17-partnerships-for-the-goals.md )
 
-## Links of Interest
+## [Links of Interest
 
 * https://ta.medium.com/awesome-list-of-united-nations-sustainable-development-goals-33ff192f0e85
 
