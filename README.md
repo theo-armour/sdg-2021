@@ -39,6 +39,35 @@ _Sustainable Development Goals (SDG) in a resizable window. One finger to rotate
 
 * https://ta.medium.com/awesome-list-of-united-nations-sustainable-development-goals-33ff192f0e85
 
+### UN
+
+* https://sdgs.un.org/goals ~
+
+* https://unstats.un.org/SDGAPI/swagger/
+* https://sustainabledevelopment.un.org/globalsdreport
+* https://unstats.un.org/sdgs/
+* https://unstats.un.org/sdgs/report/2020/
+
+the Brundtland Report ~ 1987
+
+* http://www.un-documents.net/wced-ocf.htm
+* http://www.un-documents.net/our-common-future.pdf
+* https://en.wikipedia.org/wiki/Our_Common_Future
+
+Agenda 21
+
+* https://en.wikipedia.org/wiki/Agenda_21
+
+Rio Declaration
+
+* https://en.wikipedia.org/wiki/Rio_Declaration_on_Environment_and_Development
+* https://en.wikipedia.org/wiki/United_Nations_Conference_on_Sustainable_Development ~ 2012
+
+More
+* https://sdg.data.gov/
+* https://en.wikipedia.org/wiki/Commission_on_Sustainable_Development
+* https://en.wikipedia.org/wiki/Three_generations_of_human_rights
+* https://www.wbgu.de/fileadmin/user_upload/wbgu/publikationen/hauptgutachten/hg2019/pdf/Charter_EN_WBGU.pdf
 
 ### Trends
 
@@ -61,6 +90,14 @@ _Sustainable Development Goals (SDG) in a resizable window. One finger to rotate
 * https://uia.org/s/sdg/en/ ~ Wow! looks like a great resource
 * http://encyclopedia.uia.org/en ~ The Encyclopedia of World Problems and Human Potential
 
+## More
+
+* https://www.iisd.org/
+* https://www.iisd.org/about-iisd/sustainable-development?q=topic/sustainable-development
+* https://www.globalgoals.org/
+* https://sdg-pathfinder.org/
+* https://www.sdgactioncampaign.org/
+* http://www.sustainablefriends.com/what-is-environmental-sustainability-why-is-it-important/
 
 ## To Do / Wish List
 
