@@ -35,7 +35,7 @@ _Sustainable Development Goals (SDG) in a resizable window. One finger to rotate
 16. [Peace, justice and strong institutions]( https://theo-armour.github.io/sdg-2021/#sdg-overview/16-peace-justice-and-strong-institutions.md )
 17. [Partnerships for the goals]( https://theo-armour.github.io/sdg-2021/#sdg-overview/17-partnerships-for-the-goals.md )
 
-## [Links of Interest
+## Links of Interest
 
 * https://ta.medium.com/awesome-list-of-united-nations-sustainable-development-goals-33ff192f0e85
 
