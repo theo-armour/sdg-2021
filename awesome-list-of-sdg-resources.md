@@ -47,40 +47,60 @@ https://www.futurelearn.com/info/courses/achieving-sustainable-development/0/ste
 https://www.researchgate.net/publication/320291340_A_Critical_Analysis_of_the_Sustainable_Development_Goals
 https://www.weforum.org/agenda/2017/01/turns-out-sdg-critics-were-wrong/
 
-Lists of the goals in varying presentations
+
+Global SDG Indicators Database
+
+* https://unstats.un.org/sdgs/metadata/https://unstats.un.org/sdgs/indicators/database/
+* https://unstats.un.org/sdgs/metadata/
+* https://unstats.un.org/wiki/display/SDGeHandbook/Home?preview=/34505092/38535788/SDGeHandbook-150219.pdf
+
+The metadata available in this repository is a work in progress. It reflects the latest reference metadata information provided by the UN System and other international organizations on data and statistics for the Tier I and II indicators in the global indicator framework. This repository will be further updated and periodically reviewed in cooperation with the respective data compilers.
+
+
+## Lists of the goals in varying presentations
+
 The SDGs including targets and indicators is comprised of over 250 items. Providing speedy access to all of the elements is a major goal of this projects.
 The following sections outline various possible methods for enabling a good user experience
-AirTable
+
+### AirTable
+
 AirTable provides "The power of a database with the familiarity of a spreadsheet. All the power of a flexible relational data model and more. Add fields for attachments, long text notes, checkboxes, links - even barcodes. Surface the data you need, ditch the data you don't."
 The following airTable is a free sample from the airTable website.
 SDG Base: Sustainable Development Goals - Airtable Universe
 A base for the United Nations Sustainable Development Goals and projects around them. The main table, SDG, is meant to…airtable.com
 There is much that could be added here to make a highly interactive and usabler SDGs tool.
 
-Prezi
+### Prezi
+
 Prezi: "Unlike slides, which literally box you in, Prezi gives you a limitless zoomable canvas and the ability to show relationships between the big picture and fine details. The added depth and context makes your message more likely to resonate, motivate, and get remembered, whether it's your bread-and-butter sales pitch, a classroom lecture, or a TED Talk to the world's foremost thinkers."
 The following presentation is a sample:
 "https://prezi.com/ig9rq4pmcs4v/sustainable-development-goals-sdgs/"
 This demo is could be used as the basis to create presentations with many possible interactions.
 
-HTML, CSS and GitHub Gists
+### HTML, CSS and GitHub Gists
+
 A third approach to presenting the SDGs will be to create access to the goals that is fast, simple and complete using basic HTML and CSS. Posts in Medium cannot have HTML embedded. We provide a simple example using GitHub Gists and HTML <details> tags.
 "https://gist.github.com/theo-armour/a887bbc1a51cb2037309da618af8fd8e#file-gistfile1-md"
 Click any of the triangular arrows below to open and view the targets and indicators
 
+
 ## Links of Interest
 
 4 Tips for Marketers: Sustainability Is the New Black
-1 Consumers are willing to pay more
-2 Look to sustainable leaders
-3 Remain genuine and tell your story
-4 Track the right metrics
-4. Track the right metrics:
+
+1. Consumers are willing to pay more
+2. Look to sustainable leaders
+3. Remain genuine and tell your story
+4. Track the right metrics
 
 Quotations
 
 * https://unfoundation.org/blog/post/7-un-quotes-to-get-you-inspired-for-the-new-global-goals/
 * https://greencoast.org/quotes-about-sustainability/
+
+### wikiversity
+
+https://en.wikiversity.org/wiki/Sustainable_Development_Goals
 
 
 ## Change Log
